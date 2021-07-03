@@ -1,4 +1,4 @@
-# semantic_similarity
+# Semantic Similarity
 Compare the sentences based on semantic meaning using Tree Parser &amp; ConceptNet
 
 # Referances:
